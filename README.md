@@ -4,7 +4,7 @@ Learn React Native and Build native mobile apps using JavaScript and React.
 
 ## First Session Topics
 
-[Explore](https://github.com/ignivalancy/Learn-React-Native/blob/master/First.md)
+
 
 - Introduction
 - Getting Started
@@ -16,6 +16,7 @@ Learn React Native and Build native mobile apps using JavaScript and React.
 - Lifecycle
 - Style
 - Virtual DOM - Keys and Refs
+- [Explore](https://github.com/ignivalancy/Learn-React-Native/blob/master/First.md)
 
 ## Second Session Topics
 

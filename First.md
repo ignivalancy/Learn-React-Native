@@ -11,7 +11,6 @@
 - Style
 - Virtual DOM - Keys and Refs
 - [Practical](https://snack.expo.io/@igniva-lancy/first-session)
-- Next Topics
 
 ### Introduction
 
