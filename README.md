@@ -4,8 +4,6 @@ Learn React Native and Build native mobile apps using JavaScript and React.
 
 ## First Session Topics
 
-
-
 - Introduction
 - Getting Started
 - Components

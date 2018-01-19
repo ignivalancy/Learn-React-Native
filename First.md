@@ -10,7 +10,7 @@
 - Lifecycle
 - Style
 - Virtual DOM - Keys and Refs
-- [Practical](https://snack.expo.io/@igniva-lancy/first-session)
+- [Practical](https://snack.expo.io/@ignivalancy/rn-example)
 
 ### Introduction
 
